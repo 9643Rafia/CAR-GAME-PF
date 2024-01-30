@@ -31,6 +31,3 @@ Press any key to restart the game after it ends.
 ![image](https://github.com/9643Rafia/CAR-GAME-PF/assets/158092817/f14d3d68-c51d-4300-a5f5-ddcf8aaf32b9)
 ![image](https://github.com/9643Rafia/CAR-GAME-PF/assets/158092817/0fe3409b-e5af-48ad-b3ee-6822a0522f03)
 
-
-# REQUIRED FILES
-[gameboard.txt](https://github.com/9643Rafia/CAR-GAME-PF/files/14103668/gameboard.txt)
